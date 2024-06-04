@@ -4,7 +4,9 @@ Este proyecto de fin de grado (TFG) se centra en la aplicación de técnicas de 
 ## Cómo Ejecutar el Proyecto
 1. Clona el repositorio en tu máquina local.
 2. Instala las dependencias del proyecto con pip install -r requirements.txt.
-3. Ejecuta los notebooks para usar el framework y sus módulos.
+3. Descomprime el .zip con el conjunto de datos procesado y añadelo a docs/
+3. (alternativa) Configura y usa el script de obtención de datos para crear tu propio conjunto de datos.
+4. Ejecuta los notebooks para usar el framework y sus módulos. (Puede emplearse con cualquier otro conjunto de datos y algoritmos de tu elección)
 
 ## Algoritmos Utilizados
 En este proyecto, utilizamos los siguientes algoritmos de aprendizaje automático para la predicción de la popularidad de las canciones mediante regresión y clasificación:
@@ -39,7 +41,9 @@ This final degree project (TFG) focuses on the application of data science techn
 ## How to Execute the Project
 1. Clone the repository to your local machine.
 2. Install the project dependencies with pip install -r requirements.txt.
-3. Run the notebooks use the framework and modules.
+3. Unzip the .zip with the processed data set and add it to docs/
+3. (alternative) Configure and use the data fetch script to create your own data set.
+4. Run the notebooks to use the framework and its modules. (Can be used with any other data set and algorithms of your choice)
 
 ## Algorithms Used
 In this project, we use the following machine learning algorithms for song popularity prediction using regression and classification:
